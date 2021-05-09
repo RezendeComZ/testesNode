@@ -1,1 +1,11 @@
-Rodando..Rodando..Rodando..Rodando..Rodando..Rodando..Rodando..Rodando..Rodando..Rodando..
+{"livre":"1784 MB","total":"16384 MB","usada":"89%"}
+{"livre":"1784 MB","total":"16384 MB","usada":"89%"}
+{"livre":"1781 MB","total":"16384 MB","usada":"89%"}
+{"livre":"1782 MB","total":"16384 MB","usada":"89%"}
+{"livre":"1781 MB","total":"16384 MB","usada":"89%"}
+{"livre":"1781 MB","total":"16384 MB","usada":"89%"}
+{"livre":"1780 MB","total":"16384 MB","usada":"89%"}
+{"livre":"1779 MB","total":"16384 MB","usada":"89%"}
+{"livre":"1782 MB","total":"16384 MB","usada":"89%"}
+{"livre":"1782 MB","total":"16384 MB","usada":"89%"}
+{"livre":"1785 MB","total":"16384 MB","usada":"89%"}

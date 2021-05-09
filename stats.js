@@ -23,7 +23,7 @@ function StatusMemoria() {
   console.clear()
   console.table(stats);
 
-  log('Rodando..')
+  log(`${JSON.stringify(stats)}\n`)
 
 }
 
