@@ -1,4 +1,5 @@
 const os = require('os');
+const log = require('./logger')
 // console.log(os.cpus())
 
 const {freemem, totalmem } = os
@@ -21,6 +22,8 @@ function StatusMemoria() {
   
   console.clear()
   console.table(stats);
+
+  log('Rodando..')
 
 }
 
